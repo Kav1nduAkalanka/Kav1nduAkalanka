@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kav1nduAkalanka
 - 👀 I’m interested in learning new  things 
-- 🌱 I’m currently learning html/css/js
+- 🌱 I’m currently learning C
   
   
 
